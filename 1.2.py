@@ -1,3 +1,5 @@
+#String palindrome
+
 s = "amma"
 rev = ""
 for i in s:

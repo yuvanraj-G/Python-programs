@@ -1,3 +1,5 @@
+#frequency
+
 s="StudEnt"
 vowels="AEIOUaeiou"
 Result= " "
